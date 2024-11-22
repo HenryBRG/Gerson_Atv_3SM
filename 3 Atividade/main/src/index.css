@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Código fonte */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+/* Estilos base para inputs */
+.input-base {
+  width: 30%;
+  height: 50px;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 15px;
+  margin-left: 1%;
+}
+
+/* Estados de erro */
+.input-base.is-invalid {
+  border-color: red;
+}
+
+/* Inputs para cadastro de cliente */
+.inputscadastrocliente {
+  margin-left: 33%;
+}
+
+/* Inputs para cadastro de cliente (versão 2) */
+.inputscadastrocliente2 {
+  margin-left: 21%;
+  margin-right: 21%;
+}
+
+/* Inputs para cadastro de produto */
+.inputscadastroproduto {
+  margin-left: 1%;
+}
+
+/* Inputs para cadastro de produto (versão 2) */
+.inputscadastroproduto2 {
+  margin-left: 35%;
+  margin-right: 51%;
+}
+
+/* Inputs para cadastro de serviço */
+.inputscadastroservico {
+  margin-left: 1%;
+}
