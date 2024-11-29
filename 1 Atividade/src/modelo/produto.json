@@ -2,72 +2,72 @@
   "produto": [
     {
       "idprod": "001",
-      "nomeprod": "Ração Premium para Cães Adultos",
-      "valorprod": 150.00,
-      "descricaoprod": "Ração balanceada de alta qualidade, ideal para a saúde e o bem-estar de cães adultos de todas as raças.",
+      "nomeprod": "Ração Super Premium para Cães Adultos",
+      "valorprod": 165.00,
+      "descricaoprod": "Ração de alta performance com nutrientes essenciais para promover a vitalidade e saúde de cães adultos.",
       "tipoprod": "Alimento"
     },
     {
       "idprod": "002",
-      "nomeprod": "Coleira Ajustável para Gatos",
-      "valorprod": 35.00,
-      "descricaoprod": "Coleira de nylon ajustável com fecho de segurança, disponível em várias cores.",
+      "nomeprod": "Coleira com Identificação para Gatos",
+      "valorprod": 40.00,
+      "descricaoprod": "Coleira de material resistente com espaço para gravação de identificação do pet.",
       "tipoprod": "Acessórios"
     },
     {
       "idprod": "003",
-      "nomeprod": "Shampoo Hipoalergênico para Pets",
-      "valorprod": 45.00,
-      "descricaoprod": "Shampoo hipoalergênico, ideal para pets com peles sensíveis, sem fragrância artificial.",
+      "nomeprod": "Shampoo Antipulgas para Pets",
+      "valorprod": 50.00,
+      "descricaoprod": "Shampoo eficaz contra pulgas e carrapatos, formulado para peles delicadas.",
       "tipoprod": "Higiene"
     },
     {
       "idprod": "004",
-      "nomeprod": "Cama Confortável para Cães Pequenos",
-      "valorprod": 120.00,
-      "descricaoprod": "Cama acolchoada, macia e lavável, perfeita para garantir o conforto do seu pet.",
+      "nomeprod": "Cama Ortopédica para Cães Pequenos",
+      "valorprod": 140.00,
+      "descricaoprod": "Cama ergonômica com espuma de alta densidade para o máximo conforto e suporte ao seu cão.",
       "tipoprod": "Conforto"
     },
     {
       "idprod": "005",
-      "nomeprod": "Brinquedo de Borracha para Cães",
-      "valorprod": 30.00,
-      "descricaoprod": "Brinquedo resistente e seguro, feito de borracha durável, ideal para cães que adoram morder.",
+      "nomeprod": "Brinquedo Interativo para Cães",
+      "valorprod": 35.00,
+      "descricaoprod": "Brinquedo interativo que estimula o raciocínio e mantém o pet entretido por horas.",
       "tipoprod": "Brinquedo"
     },
     {
       "idprod": "006",
-      "nomeprod": "Ração para Gatos Castrados",
-      "valorprod": 80.00,
-      "descricaoprod": "Ração especialmente formulada para gatos castrados, ajuda no controle de peso e saúde do trato urinário.",
+      "nomeprod": "Ração Low Carb para Gatos Castrados",
+      "valorprod": 85.00,
+      "descricaoprod": "Ração com baixo teor de carboidratos, ideal para gatos castrados e controle de peso.",
       "tipoprod": "Alimento"
     },
     {
       "idprod": "007",
-      "nomeprod": "Transportadora para Pets",
-      "valorprod": 180.00,
-      "descricaoprod": "Transportadora espaçosa e ventilada, ideal para viagens seguras com cães e gatos de pequeno porte.",
+      "nomeprod": "Transportadora Dobrável para Pets",
+      "valorprod": 200.00,
+      "descricaoprod": "Transportadora prática e dobrável, projetada para facilitar o transporte seguro de pets pequenos.",
       "tipoprod": "Transporte"
     },
     {
       "idprod": "008",
-      "nomeprod": "Petisco Natural para Cães",
-      "valorprod": 25.00,
-      "descricaoprod": "Petisco saudável feito com ingredientes naturais, ideal para premiar o seu pet.",
+      "nomeprod": "Petisco Funcional para Cães",
+      "valorprod": 30.00,
+      "descricaoprod": "Petisco enriquecido com vitaminas e minerais, ideal para a saúde articular do seu cão.",
       "tipoprod": "Alimento"
     },
     {
       "idprod": "009",
-      "nomeprod": "Cerca de Segurança Ajustável",
-      "valorprod": 250.00,
-      "descricaoprod": "Cerca ajustável para garantir que seu pet fique seguro dentro de casa ou em áreas externas.",
+      "nomeprod": "Portão de Segurança para Pets",
+      "valorprod": 270.00,
+      "descricaoprod": "Portão ajustável com travamento reforçado, ideal para manter áreas restritas seguras para o seu pet.",
       "tipoprod": "Segurança"
     },
     {
       "idprod": "010",
-      "nomeprod": "Camiseta para Cães",
-      "valorprod": 50.00,
-      "descricaoprod": "Camiseta de algodão macio e respirável, disponível em diversos tamanhos e cores.",
+      "nomeprod": "Casaco Impermeável para Cães",
+      "valorprod": 65.00,
+      "descricaoprod": "Casaco com tecido impermeável e forro térmico, perfeito para dias chuvosos e frios.",
       "tipoprod": "Vestuário"
     }
   ]
