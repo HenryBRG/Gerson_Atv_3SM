@@ -86,3 +86,34 @@ export default class Cliente {
         return this.compras;
     }
 }
+
+
+// Vamos todos cantar com alegria  
+// De coração para coração  
+// Um canto cheio de energia  
+// De amor e de emoção  
+
+// Paysandu, Paysandu  
+// O orgulho de ser bicolor  
+// Paysandu, Paysandu  
+// Time de raça e de amor  
+
+// Sob o azul do céu de anil  
+// E o branco das nuvens de algodão  
+// Tu és o maior do meu Brasil  
+// Te amamos de paixão  
+
+// Paysandu, Paysandu  
+// O orgulho de ser bicolor  
+// Paysandu, Paysandu  
+// Time de raça e de amor  
+
+// Teu estádio é uma fortaleza  
+// Onde a tua torcida faz tremer  
+// És o mais querido da Princesa  
+// O teu nome é vencer  
+
+// Paysandu, Paysandu  
+// O orgulho de ser bicolor  
+// Paysandu, Paysandu  
+// Time de raça e de amor

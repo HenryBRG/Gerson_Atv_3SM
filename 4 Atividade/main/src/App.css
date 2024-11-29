@@ -1,0 +1,47 @@
+/* Centraliza o conteúdo principal */
+.App {
+  text-align: center;
+}
+
+
+/* Animação de rotação do logo */
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+/* Estilos para o cabeçalho da aplicação */
+.App-header {
+  background-color: #264948;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(9px + 2vmin); /* Tamanho de fonte responsivo */
+
+}
+
+/* Estilos para os links */
+.App-link {
+  color: greenyellow;
+}
+
+/* Definindo a animação de rotação do logo */
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Estilos para o logo */
+.App-logo {
+  height: 10vmin; /* Tamanho do logo responsivo */
+  pointer-events: none; /* Desabilita interação com o logo */
+}
+
+
